@@ -1,0 +1,50 @@
+body {
+    background-color: rgb(178, 192, 235);
+}
+header, footer {
+    background-color: rgb(37, 70, 172);
+    color: rgb(226, 240, 240);
+    text-align: center;
+    font-family:'Times New Roman', Times, serif;
+    font-style: italic; 
+}
+h1 {
+    font-size: 17mm;
+    margin: 5px;
+    
+}
+li {
+    border:rgb(226, 240, 240) 2px double;
+    display: inline-block;
+    padding: 10px; 
+    margin: 5px 40px; 
+    font-size: 6mm;
+}
+section {
+    background-color: rgb(37, 70, 172);
+    border: 1px white solid;
+    margin: 10px 0px;
+    font-family: 'Times New Roman', Times, serif;
+    color:rgb(226, 240, 240)
+}
+img {
+    border: 3px black ridge;
+    margin: 20px;
+}
+#seaotters {
+    width: 425px;
+}
+#puffin {
+    width: 425px;
+}
+#bear {
+    width: 425px;
+}
+.marinemammals {
+    border-radius: 20px;
+}
+p {
+    display: inline-block;
+    width: 300px;
+    position: 
+}

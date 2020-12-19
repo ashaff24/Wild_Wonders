@@ -15,3 +15,6 @@ Amazing zoo animals and their stories
 
 - Used W3 schools for get element id
  https://www.w3schools.com/jsref/met_document_getelementbyid.asp 
+
+ - Used W3 schools for redirecting to a different webpage
+ https://www.w3schools.com/howto/howto_js_redirect_webpage.asp 
